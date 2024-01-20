@@ -20,3 +20,6 @@ Here we add **PreSort** logic applied to **Step2**. In this case, there’s a hi
 Here we add **Transposition Tables** to ***Step3**. Transposition tables are used to store the result of already analyzed boards. This prevents the algorithm from evaluating the same board multiple times and reading it from a memory, the transposition table, instead.
 
 ### Finally we get an optimized algorithm that is 25 times faster than classic MinMax algorithm.
+![result1](https://github.com/sadighasanzade/Improved-MinMax-Algorithm/assets/59266227/64108686-64c2-4662-b893-2642731c08d1)
+![result2](https://github.com/sadighasanzade/Improved-MinMax-Algorithm/assets/59266227/905be1fb-7e10-4076-a547-abcca2a91512)
+
